@@ -1,1 +1,1 @@
-# Hello World!
+#A fully functioning GUI connected to our self-built database which allows users to keep a journal of locations they've visited. Entries published publicly may be flagged by other users for inappropriate behavior and reviewed by admins for appropriate response (deletion of entry, removal of flag, or banning the user).
